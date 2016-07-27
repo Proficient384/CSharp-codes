@@ -1,0 +1,15 @@
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\bin\Debug\Prac2_PartB_My Strings.exe.config
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\bin\Debug\Prac2_PartB_My Strings.exe
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\bin\Debug\Prac2_PartB_My Strings.pdb
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\bin\Debug\ThinkLib.dll
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings.csprojResolveAssemblyReference.cache
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\MainWindow.g.cs
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\App.g.cs
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings_MarkupCompile.cache
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings_MarkupCompile.lref
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\MainWindow.baml
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings.g.resources
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My_Strings.Properties.Resources.resources
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings.csproj.GenerateResource.Cache
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings.exe
+c:\users\proficient\documents\visual studio 2015\Projects\Prac2_PartB_My Strings\Prac2_PartB_My Strings\obj\Debug\Prac2_PartB_My Strings.pdb
